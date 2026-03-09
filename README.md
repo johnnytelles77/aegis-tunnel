@@ -1,7 +1,7 @@
 cat > README.md << 'EOF'
 # Aegis Tunnel
 
-Blockchain transaction analysis backend built with Java, Spring Boot and PostgreSQL.
+Zero-Trust Secure Tunnel Service built with Java, Spring Boot & WireGuard
 
 ---
 
